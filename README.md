@@ -11,11 +11,17 @@ No external dependancies required, except `mingw` for Windows users.
 
 ## How to use
 To start program for assembling files, run:
-```./disassemble_assemble -a```
+```
+./disassemble_assemble -a
+```
 And to start program for disassembling files, run:
-```./disassemble_assemble -d```
+```
+./disassemble_assemble -d
+```
 You can see similar inforamtion if you run:
-```./disassemble_assemble --help```
+```
+./disassemble_assemble --help
+```
 After that just follow instructions in program.
 
 > [!WARNING]
