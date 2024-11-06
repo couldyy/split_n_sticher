@@ -11,17 +11,17 @@ No external dependancies required, except `mingw` for Windows users.
 
 ## How to use
 To start program for assembling files, run:
-`./disassemble_assemble -a`
+```./disassemble_assemble -a```
 And to start program for disassembling files, run:
-`./disassemble_assemble -d`
+```./disassemble_assemble -d```
 You can see similar inforamtion if you run:
-`./disassemble_assemble --help`
+```./disassemble_assemble --help```
 After that just follow instructions in program.
 
 > [!WARNING]
-> Make sure there is no "(*number*)", example -> (1),  in filenames, otherwise ot will not open this file for some reason
+> Make sure there is no "(*number*)", example -> filename.jpg **(1)**,  in filenames, otherwise ot will not open this file for some reason
 
 ### ToDo:
--[] Fix bug on Windows
--[] Add support for opening all files in directory
+-[ ] Fix bug with filenames
+-[ ] Add support for opening all files in directory
 
