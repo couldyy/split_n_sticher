@@ -19,9 +19,10 @@ You can see similar inforamtion if you run:
 After that just follow instructions in program.
 
 > [!WARNING]
-> Make sure there is no "(*number*)", example -> filename.jpg **(1)**,  in filenames, otherwise ot will not open this file for some reason
+> Make sure there is no "(*number*)" in filenames, otherwise ot will not open this file for some reason
+> Example -> filename.jpg **(1)**, should be -> filename.jpg
 
 ### ToDo:
--[ ] Fix bug with filenames
--[ ] Add support for opening all files in directory
+- [ ] Fix bug with filenames
+- [ ] Add support for opening all files in directory
 
