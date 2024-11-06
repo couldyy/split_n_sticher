@@ -1,4 +1,4 @@
-# file_asmmebler_disassembler
+# File asmmebler-disassembler
 Simple program to disassmeble file to parts and then assemble it back
 ## Build
 To build just simply do:
