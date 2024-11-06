@@ -19,7 +19,7 @@ You can see similar inforamtion if you run:
 After that just follow instructions in program.
 
 > [!WARNING]
-> Make sure there is no "(*number*)" in filenames, otherwise ot will not open this file for some reason
+> Make sure there is no "(*number*)" in filenames, otherwise ot will not open this file for some reason \n
 > Example -> filename.jpg **(1)**, should be -> filename.jpg
 
 ### ToDo:
