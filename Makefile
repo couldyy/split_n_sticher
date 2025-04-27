@@ -1,7 +1,7 @@
 CC=gcc
 
-all: disassembler_assembler
+all: splitNsticher
 
-disassembler_assembler: disassemble_assemble.c utils.c utils.h
-	$(CC) -o disassemble_assemble disassemble_assemble.c utils.c utils.h
+splitNsticher: splitNsticher.c utils.c utils.h
+	$(CC) -o splitNsticher splitNsticher.c utils.c utils.h
 
