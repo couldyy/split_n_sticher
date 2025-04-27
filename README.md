@@ -2,8 +2,7 @@
 Simple program to split file to parts and then assemble it back
 
 > [!WARNING]
-> Due to the way getting filesize is implemented (long ftell()), maximum filesize is size of **long** type, which means **on 32-bit systems max size is 2gb**
-> This will probably be fixed in future
+> Due to the way getting filesize is implemented (long ftell()), maximum filesize is size of **long** type, which means **on 32-bit systems max size is 2gb**. This will probably be fixed in future
 
 ## Build
 To build just simply do:
@@ -37,4 +36,6 @@ After that just follow instructions in program.
 ### ToDo:
 - [ ] Fix bug with filenames
 - [ ] Add support for opening all files in directory
+- [ ] Fix max filesize
+- [ ] Add capability if choosing directory to assemble in 
 
